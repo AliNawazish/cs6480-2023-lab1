@@ -1,0 +1,2 @@
+docker build -t ali/h1 .
+sudo docker run -it f76bb4161aa0
